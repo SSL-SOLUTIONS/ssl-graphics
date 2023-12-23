@@ -1,0 +1,299 @@
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.cus {
+    font-weight: 700;
+    font-size: 30px;
+    word-spacing: 8px;
+    color: pink;
+    text-align: center;
+}
+
+.gsu {
+    font-weight: 700;
+    font-size: 30px;
+    word-spacing: 8px;
+    color: #6bcac7;
+
+    text-align: center;
+}
+
+.dara {
+    font-weight: 700;
+    font-size: 30px;
+    word-spacing: 8px;
+    color: rgb(165, 91, 42);
+
+    text-align: center;
+}
+
+.btn-pink {
+    background-color: pink;
+    color: white;
+    border-radius: 30px;
+}
+
+.grap {
+    text-align: center;
+}
+
+.slider-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.8s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.text-start {
+    text-align: start;
+}
+
+.btn-pink {
+    background-color: rgb(248, 171, 184);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: #6bcac7;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn-dark {
+    background-color: rgb(165, 91, 42);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn-blue:hover {
+    background-color: #6bcac7;
+}
+
+.btn-pink:hover {
+    background-color: pink;
+}
+
+.btn-dark:hover {
+    background-color: rgb(165, 91, 42);
+}
+
+
+.indicators {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    /* Adjust as needed */
+}
+
+.indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: wheat;
+    margin: 0 5px;
+    /* Adjust spacing between indicators */
+    cursor: pointer;
+}
+
+.indicator.active {
+    background-color: rgba(247, 172, 57, 1);
+}
+
+@media (max-width: 767.98px) {
+    /* .colo {
+    background-color: lightblue; */
+        /* Choose your color */
+    }
+
+    .cus,
+    .gsu,
+    .dara,
+    .grap,
+    .btn-pink {
+        color: black;
+        /* Choose your color */
+        text-align: center;
+    }
+
+
+.fastt {
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 300;
+    color: rgb(100, 94, 94);
+}
+.cardyy{
+width: 130px;
+height: 130px;
+background-color: #ffffff;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+margin: 0 5px; /* Decreased margin for spacing between cards */
+display: inline-block;
+}
+.piiki{
+text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(100, 94, 94);
+    margin-bottom: 10px;
+}
+.puka{
+text-align: center;
+color: rgb(100, 94, 94);
+margin-bottom: 10px;
+}
+.pukaa{
+text-align: center;
+color: rgb(100, 94, 94);
+margin-bottom: 70px;
+}
+.card {
+transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+transform: scale(1.1);
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+cursor: pointer;
+}
+.card {
+position: relative;
+z-index: 1;
+border-radius: 10px; /* Adjust the border radius as needed */
+overflow: hidden; /* Ensures border-radius works properly */
+transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+transform: scale(1.05);
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+z-index: 2;
+}
+
+
+
+
+
+.custom-section {
+background-color: #ebebeb; /* Dark background color for the section */
+padding: 50px 0;
+
+  /* Adjust padding as needed */
+}
+
+.custom-section h1 {
+color: #726c6c; /* Set text color to white */
+}
+
+.custom-section p {
+color: #726c6c; /* Set text color to a light color */
+}
+
+.card {
+background-color: #ffffff; /* Set card background color */
+border-radius: 10px; /* Set border radius for cards */
+margin-bottom: 20px; /* Add margin between cards */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow to cards */
+}
+
+.card img {
+border-radius: 10px 10px 0 0; /* Round only the top corners of the card images */
+max-height: 200px; /* Set a maximum height for card images */
+object-fit: cover; /* Ensure images cover the entire container */
+}
+
+
+
+
+
+.besty{
+text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    font-weight: 700;
+    color: rgb(100, 94, 94);
+    margin-bottom: 10px;
+}
+
+.frreq{
+font-size: 30px;
+    font-weight: 700;
+    color:#115888;
+    margin-bottom: 50px;
+    text-align: start;
+}
+.canyou{
+color: rgb(100, 94, 94);
+font-size: 20px;
+text-align: start;
+}
+.canyou {
+color: black;
+cursor: pointer;
+}
+
+#customBoxInfo {
+display: none;
+background-color: #f0f0f0;
+padding: 10px;
+border: 1px solid #ccc;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#customBoxInfo textarea {
+width: 600px;
+height: 100px;
+resize: none;
+border: 1px solid #ccc;
+}
+
+.canyou:hover, .canyou:active {
+color: blue;
+}
+#customBoxInfo {
+display: none;
+}
+
+.canyou:hover + #customBoxInfo,
+#customBoxInfo:hover {
+display: block;
+}
+
+.canyou:hover + #customBoxInfo textarea,
+#customBoxInfo:hover textarea {
+display: block;
+}
+
+#customBoxInfo textarea {
+display: none;
+width: 100%;
+height: 100px; /* Adjust the height as needed */
+box-sizing: border-box;
+}
+
+
+
