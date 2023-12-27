@@ -59,6 +59,10 @@ Route::get('tech',[PromotionalController::class ,'tech'])->name('tech');
 Route::get('wallets',[PromotionalController::class ,'wallets'])->name('wallets');
 Route::get('bags',[PromotionalController::class ,'bags'])->name('bags');
 Route::get('walldecor',[PromotionalController::class ,'walldecor'])->name('walldecor');
+Route::get('clocks',[PromotionalController::class ,'clocks'])->name('clocks');
+Route::get('pens',[PromotionalController::class ,'pens'])->name('pens');
+Route::get('rings',[PromotionalController::class ,'rings'])->name('rings');
+
 
 Route::get('stickers',[PromotionalController::class ,'stickers'])->name('stickers');
 Auth::routes();

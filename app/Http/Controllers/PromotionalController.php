@@ -35,4 +35,13 @@ class PromotionalController extends Controller
     public function walldecor(){
         return view('promotionalitems.walldecor');
     }
+    public function clocks(){
+        return view('promotionalitems.clocks');
+    }
+    public function pens(){
+        return view('promotionalitems.pens');
+    }
+    public function rings(){
+        return view('promotionalitems.rings');
+    }
 }

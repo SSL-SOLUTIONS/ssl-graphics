@@ -126,6 +126,9 @@
                 <a class="dropdown-item" href="{{route('wallets')}}">Wallets</a>
                 <a class="dropdown-item" href="{{route('bags')}}">bags</a>
                 <a class="dropdown-item" href="{{route('walldecor')}}">walldecor</a>
+                <a class="dropdown-item" href="{{route('clocks')}}">Clocks</a>
+                <a class="dropdown-item" href="{{route('pens')}}">Pens</a>
+                <a class="dropdown-item" href="{{route('rings')}}">Rings</a>
                 <a class="dropdown-item" href="{{route('tech')}}">Tech(USB,Accessories.)</a>
 
               </div>

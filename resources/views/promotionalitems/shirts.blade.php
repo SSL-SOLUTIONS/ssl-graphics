@@ -86,12 +86,11 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/1.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/first.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Chic Comfort for Every Occasion</h5>
+                        <p class="card-text">Discover the epitome of style and comfort with Stylish Threads Co. Our premium shirts redefine fashion.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -103,12 +102,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/2.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/second.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">One Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Designers' Canvas Apparel</h5>
+                        <p class="card-text">Your Style, Your Message - We Print It All. Quality shirts with your logos and content, crafted for creatives.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>

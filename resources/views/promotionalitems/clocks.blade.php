@@ -70,15 +70,15 @@
 <body  class="bodddy">
     <div style="margin-top: -112px;"
      class="container-fluid bg-dark contn text-center">
-        <p class="BC">Mugs</p>
-        <p class="let">Let your Mugs do the talking <br> with special finishes and unique sizes <br>
+        <p class="BC">Clocks</p>
+        <p class="let">Let your Clocks do the talking <br> with special finishes and unique sizes <br>
             guaranteed to make an
             impression.</p>
     </div>
 
     <div class="text-center">
-        <p class="sbc mb-0 mt-3">Shop Mugs</p>
-        <p class="you">You can’t go wrong. We start at premium Mugs and go all the way to extra fancy.
+        <p class="sbc mb-0 mt-3">Shop Clocks</p>
+        <p class="you">You can’t go wrong. We start at premium Clocks and go all the way to extra fancy.
 
         </p>
     </div>
@@ -86,11 +86,11 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/first.jpeg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/clocks/a clock.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Printmaster's Palette Mugs</h5>
-                        <p class="card-text">Unleash your creativity with the Printmaster's Palette Mug. Featuring vibrant CMYK colors,this mug is perfect for artists,</p>
+                        <h5 class="card-title">Timeprint Elegance</h5>
+                        <p class="card-text">Experience time in every stroke, creating a canvas of timeless beauty.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -102,11 +102,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/second.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/clocks/b clock.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Pixel Perfect Printer Mug</h5>
-                        <p class="card-text">Sip in style with the Pixel Perfect Printer Mug. Showcasing a pixelated design, this mug is a nod to the precision </p>
+                        <h5 class="card-title">Inkwell Moments</h5>
+                        <p class="card-text">Where every second is beautifully written, turning time into an artful expression.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -115,13 +115,14 @@
                     </div>
                 </div>
             </div>
+           
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/third.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/clocks/c clock.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Inkwell Inspiration Mug</h5>
-                        <p class="card-text">Draw inspiration from the depths of the Inkwell Inspiration Mug. Its design pays homage to the traditional inkwell.</p>
+                        <h5 class="card-title">Printed Harmony</h5>
+                        <p class="card-text"> Precision in every tick, a harmonious display of measured moments.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -131,14 +132,14 @@
                     </div>
                 </div> 
             </div>
-
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/fourth.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/4.jpg')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">3D Printer Dreams Mug</h5>
-                        <p class="card-text">Explore the world of possibilities with the 3D Printer Dreams Mug. Featuring futuristic designs and a nod.</p>
+                        <h5 class="card-title">Double Size Business Card</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -153,11 +154,12 @@
             <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/fifth.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/5.jpg')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Print Prodigy Ceramic Mug</h5>
-                        <p class="card-text">Elevate your coffee break with the Graphic Guru Mug. Featuring graphic design elements and printing tools.</p>
+                        <h5 class="card-title">Double Size Business Card</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
