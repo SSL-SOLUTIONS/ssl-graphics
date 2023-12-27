@@ -86,7 +86,7 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/first.jpeg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/first.jpeg')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Printmaster's Palette Mugs</h5>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/second.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/kofi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Pixel Perfect Printer Mug</h5>
@@ -117,7 +117,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/third.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/third.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Inkwell Inspiration Mug</h5>
@@ -134,7 +134,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/fourth.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/fourth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">3D Printer Dreams Mug</h5>
@@ -153,7 +153,7 @@
             <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/mugs/fifth.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/fifth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Print Prodigy Ceramic Mug</h5>
@@ -169,7 +169,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/6.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/fourth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -185,7 +185,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/7.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/third.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -203,7 +203,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/8.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/kofi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -223,8 +223,8 @@
         <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
-                        alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/businesscards/images/sixth.jpeg')}}"
+f                        alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -240,7 +240,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/first.jpeg')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -256,7 +256,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/fifth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -274,7 +274,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/sixth.jpeg')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>

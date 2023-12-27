@@ -86,11 +86,11 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/Pens/pen a.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Ink Craftsmanship </h5>
-                        <p class="card-text">Delve into the artistry of our pens as we unveil the intricate process of printing. Each stroke on the pen is a testament.</p>
+                        <h5 class="card-title">Timeless Printed Pens </h5>
+                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -102,11 +102,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/Pens/pen b.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen b.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Precision in Every Pixel</h5>
-                        <p class="card-text">Explore the realm of micro-precision with our pen printing technique. Our state-of-the-art technology </p>
+                        <h5 class="card-title">Playful Printed Pens</h5>
+                        <p class="card-text">Unleash your creativity with our Whimsical Wonders pens. Vibrant colors and whimsical designs. </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -118,11 +118,11 @@
            
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/Pens/pen c.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen c.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Crafting Personal Stories</h5>
-                        <p class="card-text"> Step behind the scenes and discover the symphony of ink as it dances onto our pens. Each stroke tells a story.</p>
+                        <h5 class="card-title">Professional Printed Pens</h5>
+                        <p class="card-text">  Elevate your professional image with our Executive Essentials pens. Sleek and polished,</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -134,11 +134,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/pens/pen d.png')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen d.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title"> Art of Pen Personalization</h5>
-                        <p class="card-text">Immerse yourself in the artful world of pen personalization. From concept to creation, our printing process is a journey </p>
+                        <h5 class="card-title"> High-Contrast Printed Pens"</h5>
+                        <p class="card-text">Make a bold statement with our High-Contrast pens. Featuring striking designs and vivid colors </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -153,12 +153,11 @@
             <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/5.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Timeless Printed Pens </h5>
+                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -170,12 +169,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/6.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen b.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Playful Printed Pens</h5>
+                        <p class="card-text">Unleash your creativity with our Whimsical Wonders pens. Vibrant colors and whimsical designs. </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -186,12 +184,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/7.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen c.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Professional Printed Pens</h5>
+                        <p class="card-text">  Elevate your professional image with our Executive Essentials pens. Sleek and polished,</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -201,15 +198,13 @@
                     </div>
                 </div> 
             </div>
-
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/8.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen d.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title"> High-Contrast Printed Pens"</h5>
+                        <p class="card-text">Make a bold statement with our High-Contrast pens. Featuring striking designs and vivid colors </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -221,15 +216,13 @@
             </div>
         </div>
 
-        <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Timeless Printed Pens </h5>
+                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -239,58 +232,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div>
         </div>
     </div>
 </body>

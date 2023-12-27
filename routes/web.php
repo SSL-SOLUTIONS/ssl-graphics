@@ -62,6 +62,8 @@ Route::get('walldecor',[PromotionalController::class ,'walldecor'])->name('walld
 Route::get('clocks',[PromotionalController::class ,'clocks'])->name('clocks');
 Route::get('pens',[PromotionalController::class ,'pens'])->name('pens');
 Route::get('rings',[PromotionalController::class ,'rings'])->name('rings');
+Route::get('boxes',[PromotionalController::class ,'boxes'])->name('boxes');
+Route::get('booklets',[PromotionalController::class ,'booklets'])->name('booklets');
 
 
 Route::get('stickers',[PromotionalController::class ,'stickers'])->name('stickers');

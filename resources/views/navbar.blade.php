@@ -119,17 +119,13 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Promotional Items</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="{{route('giftsets')}}">Gift Sets</a>
                 <a class="dropdown-item" href="{{route('shirts')}}">Shirts</a>
                 <a class="dropdown-item" href="{{route('mugs')}}">Mugs</a>
                 <a class="dropdown-item" href="{{route('bottles')}}">Bottles</a>
-                <a class="dropdown-item" href="{{route('wallets')}}">Wallets</a>
-                <a class="dropdown-item" href="{{route('bags')}}">bags</a>
-                <a class="dropdown-item" href="{{route('walldecor')}}">walldecor</a>
                 <a class="dropdown-item" href="{{route('clocks')}}">Clocks</a>
                 <a class="dropdown-item" href="{{route('pens')}}">Pens</a>
                 <a class="dropdown-item" href="{{route('rings')}}">Rings</a>
-                <a class="dropdown-item" href="{{route('tech')}}">Tech(USB,Accessories.)</a>
+                <a class="dropdown-item" href="{{route('booklets')}}">Booklets</a>
 
               </div>
             </li>

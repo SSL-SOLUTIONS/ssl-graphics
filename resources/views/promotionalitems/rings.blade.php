@@ -70,59 +70,27 @@
 <body  class="bodddy">
     <div style="margin-top: -112px;"
      class="container-fluid bg-dark contn text-center">
-        <p class="BC">Clocks</p>
-        <p class="let">Let your Clocks do the talking <br> with special finishes and unique sizes <br>
+        <p class="BC">Key Rings</p>
+        <p class="let">Let your Key Rings do the talking <br> with special finishes and unique sizes <br>
             guaranteed to make an
             impression.</p>
     </div>
 
     <div class="text-center">
-        <p class="sbc mb-0 mt-3">Shop Clocks</p>
-        <p class="you">You can’t go wrong. We start at premium Clocks and go all the way to extra fancy.
+        <p class="sbc mb-0 mt-3">Shop Key Rings</p>
+        <p class="you">You can’t go wrong. We start at premium Key Rings and go all the way to extra fancy.
 
         </p>
     </div>
     <div class="container mt-5 align-items-stretch">
     <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+    <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/rings/pehli.png')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Keepsake Key Ring"</h5>
-                        <p class="card-text">Turn your keys into a gallery of memories with our From special dates to cherished faces</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/rings/dosri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">"Printed Keychain"</h5>
-                        <p class="card-text">Express your emotions in tangible form with our Whether it's a special message,</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-           
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/rings/tesri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Inscribed Moments Keychain</h5>
-                        <p class="card-text"> Capture memories in the palm of your hand with our Immerse yourself in</p>
+                        <h5 class="card-title">Trendy Keyring Collection</h5>
+                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -134,11 +102,43 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/rings/cothi.png')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">"Precision Key Holder"</h5>
-                        <p class="card-text">Witness the artistry of precision as we bring your chosen images to life on our.</p>
+                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
+                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
+                        <div class="product-btn">
+                            <a href="">
+                                <b style="font-weight: bolder;">Buy Now</b>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="card mb-3">
+                <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Quirky Keyring Delights"</h5>
+                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
+                        <div class="product-btn">
+                            <a href="">
+                                <b style="font-weight: bolder;">Buy Now</b>
+                            </a>
+
+                        </div>
+                    </div>
+                </div> 
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="card mb-3">
+                <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Elegance for Your Keys</h5>
+                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -151,14 +151,13 @@
             </div>
        
             <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/5.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Trendy Keyring Collection</h5>
+                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -166,16 +165,15 @@
 
                         </div>
                     </div>
-                </div>
+                </div> 
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/6.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
+                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -186,12 +184,11 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/7.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Quirky Keyring Delights"</h5>
+                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -204,12 +201,11 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/8.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title"> Elegance for Your Keys</h5>
+                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -222,14 +218,29 @@
         </div>
 
         <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
+                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
+                        <div class="product-btn">
+                            <a href="">
+                                <b style="font-weight: bolder;">Buy Now</b>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="card mb-3">
+                <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Quirky Keyring Delights"</h5>
+                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -237,32 +248,15 @@
 
                         </div>
                     </div>
-                </div>
+                </div> 
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title"> Elegance for Your Keys</h5>
+                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -275,12 +269,11 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Trendy Keyring Collection</h5>
+                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>

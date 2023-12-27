@@ -159,10 +159,10 @@
           <!-- Card 1 -->
           <div class="col-lg-3 col-md-6">
               <div class="card">
-                  <img class="card-img-top" src="{{asset('website/homepage/images/three.png')}}" alt="Card image cap">
+                  <img class="card-img-top" src="{{asset('website/homepage/images/kafi.jpeg')}}" alt="Card image cap">
                   <div class="card-body">
-                      <h5 class="card-title">Booklets</h5>
-                      <a href="{{route('foodpackaging')}}" class="btn-link">View More</a>
+                      <h5 class="card-title">Pens</h5>
+                      <a href="{{route('pens')}}" class="btn-link">View More</a>
                   </div>
               </div>
           </div>
@@ -170,10 +170,10 @@
           <!-- Card 2 -->
           <div class="col-lg-3 col-md-6">
               <div class="card">
-                  <img class="card-img-top" src="{{asset('website/homepage/images/coff.png')}}" alt="Card image cap">
+                  <img class="card-img-top" src="{{asset('website/homepage/images/key.jpeg')}}" alt="Card image cap">
                   <div class="card-body">
-                      <h5 class="card-title">Cups</h5>
-                      <a href="{{route('giftsets')}}" class="btn-link">View More</a>
+                      <h5 class="card-title">Key Rings</h5>
+                      <a href="{{route('rings')}}" class="btn-link">View More</a>
                   </div>
               </div>
           </div>
@@ -181,10 +181,10 @@
           <!-- Card 3 -->
           <div class="col-lg-3 col-md-6">
               <div class="card">
-                  <img class="card-img-top" src="{{asset('website/homepage/images/box.png')}}" alt="Card image cap">
+                  <img class="card-img-top" src="{{asset('website/homepage/images/boxi.png')}}" alt="Card image cap">
                   <div class="card-body">
                       <h5 class="card-title">Packing Boxes</h5>
-                      <a href="#" class="btn-link">View More</a>
+                      <a href="{{route('boxes')}}" class="btn-link">View More</a>
                   </div>
               </div>
           </div>
@@ -192,10 +192,10 @@
           <!-- Card 4 -->
           <div class="col-lg-3 col-md-6">
               <div class="card">
-                  <img class="card-img-top" src="{{asset('website/homepage/images/clock.png')}}" alt="Card image cap">
+                  <img class="card-img-top" src="{{asset('website/homepage/images/book.png')}}" alt="Card image cap">
                   <div class="card-body">
-                      <h5 class="card-title">Wall Clocks</h5>
-                      <a href="{{route('walldecor')}}" class="btn-link">View More</a>
+                      <h5 class="card-title">Booklets</h5>
+                      <a href="{{route('booklets')}}" class="btn-link">View More</a>
                   </div>
               </div>
           </div>
@@ -204,10 +204,10 @@
         <!-- Card 1 -->
         <div class="col-lg-3 col-md-6">
             <div class="card">
-                <img class="card-img-top" src="{{asset('website/homepage/images/ring.png')}}" alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/homepage/images/clack.png')}}" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Key Rings</h5>
-                    <a href="{{route('bottles')}}" class="btn-link">View More</a>
+                    <h5 class="card-title">Wall Clocks</h5>
+                    <a href="{{route('clocks')}}" class="btn-link">View More</a>
                 </div>
             </div>
         </div>
@@ -215,10 +215,10 @@
         <!-- Card 2 -->
         <div class="col-lg-3 col-md-6">
             <div class="card">
-                <img class="card-img-top" src="{{asset('website/homepage/images/shirt.png')}}" alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/homepage/images/bottle.png')}}" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Shirts</h5>
-                    <a href="{{route('shirts')}}" class="btn-link">View More</a>
+                    <h5 class="card-title">Bottles</h5>
+                    <a href="{{route('bottles')}}" class="btn-link">View More</a>
                 </div>
             </div>
         </div>
@@ -226,10 +226,10 @@
         <!-- Card 3 -->
         <div class="col-lg-3 col-md-6">
             <div class="card">
-                <img class="card-img-top" src="{{asset('website/homepage/images/bottle.png')}}" alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/homepage/images/kofi.png')}}" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Bottles</h5>
-                    <a href="{{route('customboxes')}}" class="btn-link">View More</a>
+                    <h5 class="card-title">Mugs</h5>
+                    <a href="{{route('mugs')}}" class="btn-link">View More</a>
                 </div>
             </div>
         </div>
@@ -237,10 +237,10 @@
         <!-- Card 4 -->
         <div class="col-lg-3 col-md-6" >
             <div class="card">
-                <img class="card-img-top" src="{{asset('website/homepage/images/pen.jpeg')}}" alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/homepage/images/shrt.png')}}" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Pens</h5>
-                    <a href="" class="btn-link">View More</a>
+                    <h5 class="card-title">Shirts</h5>
+                    <a href="{{route('shirts')}}" class="btn-link">View More</a>
                 </div>
 
             </div>
@@ -292,7 +292,7 @@
     <!-- Card 3 -->
     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
       <div class="card">
-        <img class="card-img-top" src="{{asset('website/homepage/images/1638613493.jpg')}}" alt="Card image cap">
+      <img class="card-img-top" src="{{asset('website/homepage/images/five (3).jpg')}}" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title text-center"><b>Double side business card</b></h5>
           <p class="text-center">Starting from</p>

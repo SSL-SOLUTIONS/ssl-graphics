@@ -70,15 +70,15 @@
 <body  class="bodddy">
     <div style="margin-top: -112px;"
      class="container-fluid bg-dark contn text-center">
-        <p class="BC">Gift Sets</p>
-        <p class="let">Let your Gift Sets do the talking <br> with special finishes and unique sizes <br>
+        <p class="BC">Booklets</p>
+        <p class="let">Let your Booklets do the talking <br> with special finishes and unique sizes <br>
             guaranteed to make an
             impression.</p>
     </div>
 
     <div class="text-center">
-        <p class="sbc mb-0 mt-3">Shop Gift Sets</p>
-        <p class="you">You can’t go wrong. We start at premium Gift Sets and go all the way to extra fancy.
+        <p class="sbc mb-0 mt-3">Shop Booklets</p>
+        <p class="you">You can’t go wrong. We start at premium Booklets and go all the way to extra fancy.
 
         </p>
     </div>
@@ -86,12 +86,11 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/1.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -103,28 +102,27 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/2.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">One Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
                             </a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/3.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -132,17 +130,16 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/4.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -150,19 +147,18 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
             </div>
        
             <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/5.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -174,28 +170,27 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/6.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
                             </a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/7.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -203,17 +198,15 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
-
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/8.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -221,19 +214,18 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
         </div>
 
         <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -245,28 +237,27 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
                             </a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -274,17 +265,16 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Fantasy Booklet Series</h5>
+                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -292,7 +282,7 @@
 
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
         </div>
         </div>

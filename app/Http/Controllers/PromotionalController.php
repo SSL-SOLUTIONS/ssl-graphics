@@ -44,4 +44,10 @@ class PromotionalController extends Controller
     public function rings(){
         return view('promotionalitems.rings');
     }
+    public function boxes(){
+        return view('promotionalitems.boxes');
+    }
+    public function booklets(){
+        return view('promotionalitems.booklets');
+    }
 }

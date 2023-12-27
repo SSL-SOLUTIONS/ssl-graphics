@@ -86,7 +86,7 @@
     <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/1.jpg')}}"
+                    <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -103,7 +103,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/2.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">One Size Business Card</h5>
@@ -119,7 +119,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/3.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -137,7 +137,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/4.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -157,7 +157,7 @@
             <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/5.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -174,7 +174,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/6.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -190,7 +190,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/7.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -208,7 +208,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/8.jpg')}}"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -228,7 +228,7 @@
         <div class="row mb-5 align-items-stretch">
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -245,7 +245,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -261,7 +261,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
@@ -279,7 +279,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                    <img class="card-img-top" src="https://printmeall.com/laravel/storage/app/images/1638613493.jpg"
+                <img class="card-img-top" src="{{asset('website/businesscards//images/bottle.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Double Size Business Card</h5>
