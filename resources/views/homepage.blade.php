@@ -51,19 +51,18 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-12 d-none d-md-block ">
-                            <img src="{{asset('website/homepage/images/2.jpg')}}" alt="" style="width:100%; height: 400px; ">
+                            <img src="{{asset('website/homepage/images/1.jpg')}}" alt="" style="width:100%; height: 400px; ">
                         </div>
                     </div>
                 </div>
-
                 <!-- Slide 2 -->
                 <div class="slide">
                     <div class="row">
                         <div class="col-md-6 text-center colo">
-                            <h1 class="dara" style="margin-top: 100px;">CORPORATIVE IDENTITY </h1>
+                            <h1 class="dara" style="margin-top: 100px;">Inkwell Inspiration Mug</h1>
                             <h1 class="dara">BRANDING</h1>
-                            <p class="grap">Bussiness cards,letterheads, file folders,brouchers</p>
-                            <p class="grap">flayers,catalogs and brands book high quality with lowest MOQ</p>
+                            <p class="grap">Draw inspiration from the depths of the Inkwell Inspiration Mug.</p>
+                            <p class="grap"> Its design pays homage to the traditional inkwell.</p>
                             <div class="banner-btn">
                               <a class="btn-link" href="">Buy Now</a>
                             </div>
@@ -77,10 +76,10 @@
                 <div class="slide">
                     <div class="row">
                         <div class="col-md-6 text-center 1 colo">
-                            <h1 class="gsu" style="margin-top: 100px;">RESTAURANTS PACKING</h1>
-                            <h1 class="gsu"> FOR FOOD</h1>
-                            <p class="grap">Food Packaging for small restaurants, Home based Kitchens,</p>
-                            <p class="grap"> Pizza boxes forTake aways, Bakery Products under one roof with low MOQ</p>
+                            <h1 class="gsu" style="margin-top: 100px;">Fantasy Booklet Series</h1>
+                  
+                            <p class="grap">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
+                            <p class="grap">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
                             <div class="banner-btn">
                               <a class="btn-link" href="">Shop Now</a>
                             </div>
@@ -184,7 +183,7 @@
                   <img class="card-img-top" src="{{asset('website/homepage/images/boxi.png')}}" alt="Card image cap">
                   <div class="card-body">
                       <h5 class="card-title">Packing Boxes</h5>
-                      <a href="{{route('boxes')}}" class="btn-link">View More</a>
+                      <a href="{{route('customboxes')}}" class="btn-link">View More</a>
                   </div>
               </div>
           </div>

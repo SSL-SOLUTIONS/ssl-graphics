@@ -144,7 +144,7 @@
             </li>
             <li class="nav-item">
               <a href="" class="nav-link">
-                <span class="fa fa-credit-card"></span>
+                <span class="fa fa-shopping-cart"></span>
                 <i class="sr-only">Card</i>
               </a>
             </li>
