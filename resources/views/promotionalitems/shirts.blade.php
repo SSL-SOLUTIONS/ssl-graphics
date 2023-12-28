@@ -89,8 +89,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/shrt.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Chic Comfort for Every Occasion</h5>
-                        <p class="card-text">Discover the epitome of style and comfort with Stylish Threads Co. Our premium shirts redefine fashion.</p>
+                        <h5 class="card-title">Print names on your shirts</h5>
+                        <p class="card-text">Logos on your shirts and hoodies will make you cool.Print your names as well.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                 <img class="card-img-top" src="{{asset('website/businesscards/images/shirt.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Designers' Canvas Apparel</h5>
-                        <p class="card-text">Your Style, Your Message - We Print It All. Quality shirts with your logos and content, crafted for creatives.</p>
+                        <h5 class="card-title">Logos on black are damn</h5>
+                        <p class="card-text">Enhance beauty of your shirts by Printing your name and images on it.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>

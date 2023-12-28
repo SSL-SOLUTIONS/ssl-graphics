@@ -89,8 +89,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
+                        <h5 class="card-title">Your Story in Print</h5>
+                        <p class="card-text">Immerse your audience with personalized booklets—express your narrative through our quality printing.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -100,193 +100,25 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
+           
+           
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+       
             </div>
        
             <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
+          
+            
         </div>
 
         <div class="row mb-5 align-items-stretch">
-        <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/book.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Fantasy Booklet Series</h5>
-                        <p class="card-text">Step into the realm of magic and enchantment with our Fantasy Booklet Series.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+       
+         
+            
         </div>
         </div>
-    </div>
+
 </body>
 </html>
 @include('footer')

@@ -90,7 +90,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Premium Packaging Boxes</h5>
-                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful packaging boxes.</p>
+                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful logos and names on boxes</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards//images/boxs.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Playful Gift Boxes</h5>
-                        <p class="card-text">Unwrap the joy with our whimsical gift boxes! Bursting with color and charm, these playful</p>
+                        <h5 class="card-title">Special Packaging Boxes</h5>
+                        <p class="card-text">Wanna give something special,then use use special boxes and logos on them.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -115,121 +115,19 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Premium Packaging Boxes</h5>
-                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful packaging boxes.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
+          
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxs.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Playful Gift Boxes</h5>
-                        <p class="card-text">Unwrap the joy with our whimsical gift boxes! Bursting with color and charm, these playful</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             </div>
             <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Premium Packaging Boxes</h5>
-                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful packaging boxes.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
+           
+            
+       
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxs.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Playful Gift Boxes</h5>
-                        <p class="card-text">Unwrap the joy with our whimsical gift boxes! Bursting with color and charm, these playful</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Premium Packaging Boxes</h5>
-                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful packaging boxes.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
+            
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxs.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Playful Gift Boxes</h5>
-                        <p class="card-text">Unwrap the joy with our whimsical gift boxes! Bursting with color and charm, these playful</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-
-        <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards//images/boxi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Premium Packaging Boxes</h5>
-                        <p class="card-text"> Elevate your gift-giving experience with our Beautiful packaging boxes.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+        
         </div>
     </div>
 </body>

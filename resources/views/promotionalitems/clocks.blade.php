@@ -89,8 +89,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/clack.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Timeprint Elegance</h5>
-                        <p class="card-text">Experience time in every stroke, creating a canvas of timeless beauty.</p>
+                        <h5 class="card-title">Timeless Custom Clocks</h5>
+                        <p class="card-text"> Transform your space with clocks that tell more than time – personalize with logos or names.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/b clock.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Inkwell Moments</h5>
-                        <p class="card-text">Where every second is beautifully written, turning time into an artful expression.</p>
+                        <h5 class="card-title">Clocks Crafted for You</h5>
+                        <p class="card-text">Add character to your surroundings with our customized clocks, featuring logos or names of your choice.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -121,8 +121,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/c clock.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Printed Harmony</h5>
-                        <p class="card-text"> Precision in every tick, a harmonious display of measured moments.</p>
+                        <h5 class="card-title"> Your Moments in Time    </h5>
+                        <p class="card-text"> Cherish memories with clocks adorned by your selected logos or names – timepieces as unique as you are. set yours logos</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -132,165 +132,15 @@
                     </div>
                 </div> 
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/c clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+          
             </div>
        
             <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/clack.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/b clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/clack.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/c clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+           
         </div>
 
         <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/b clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/c clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/clack.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/b clock.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+            
         </div>
         </div>
     </div>

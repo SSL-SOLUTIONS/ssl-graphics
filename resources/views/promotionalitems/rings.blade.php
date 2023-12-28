@@ -89,8 +89,8 @@
                 <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Trendy Keyring Collection</h5>
-                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
+                        <h5 class="card-title">Personalized Keychains</h5>
+                        <p class="card-text">Make your keys stand out by adding a personal touch with custom-printed names or logos on our keychains.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                 <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
-                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
+                        <h5 class="card-title">Key to Identity</h5>
+                        <p class="card-text">Make your keys stand out by adding a personal touch with custom-printed names or logos on our keychains. for a touch of charm.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -121,8 +121,8 @@
                 <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Quirky Keyring Delights"</h5>
-                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
+                        <h5 class="card-title">Charmingly Yours Keychains</h5>
+                        <p class="card-text">Create lasting impressions wherever you go - personalize keychains with names or logos </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -137,8 +137,8 @@
                 <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title"> Elegance for Your Keys</h5>
-                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
+                        <h5 class="card-title">Signature Swag Keychains</h5>
+                        <p class="card-text">Elevate your style with keychains that speak volumes - customize with names or logos for a signature look.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -151,139 +151,11 @@
             </div>
        
             <div class="row mb-5 align-items-stretch">
-             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Trendy Keyring Collection</h5>
-                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
-                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Quirky Keyring Delights"</h5>
-                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title"> Elegance for Your Keys</h5>
-                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+        
         </div>
 
         <div class="row mb-5 align-items-stretch">
-        <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/dosri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Sleek and Chic Keyrings</h5>
-                        <p class="card-text"> Elevate your key game with our sleek and chic keyrings. Designed to complement any look.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-           
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/tesri.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Quirky Keyring Delights"</h5>
-                        <p class="card-text">  Unleash your unique personality with our quirky keyring delights. From playful shapes </p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/cothi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title"> Elegance for Your Keys</h5>
-                        <p class="card-text">Embrace timeless elegance with our collection of classic keyrings. Simple yet sophisticated,</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/pehli.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Trendy Keyring Collection</h5>
-                        <p class="card-text">Discover our trendy keyring collection that adds a touch of style to your everyday essentials.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div>  
+       
         </div>
     </div>
 </body>

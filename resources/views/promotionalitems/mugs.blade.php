@@ -89,8 +89,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/first.jpeg')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Printmaster's Palette Mugs</h5>
-                        <p class="card-text">Unleash your creativity with the Printmaster's Palette Mug. Featuring vibrant CMYK colors,this mug is perfect for artists,</p>
+                        <h5 class="card-title">Your Design,Your Mug</h5>
+                        <p class="card-text">Make water special by printing your logo or name on our water mugs</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/kofi.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Pixel Perfect Printer Mug</h5>
-                        <p class="card-text">Sip in style with the Pixel Perfect Printer Mug. Showcasing a pixelated design, this mug is a nod to the precision </p>
+                        <h5 class="card-title">Logo Water Mugs</h5>
+                        <p class="card-text">print names and logos on white or colorful printed mugs </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -120,8 +120,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/third.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Inkwell Inspiration Mug</h5>
-                        <p class="card-text">Draw inspiration from the depths of the Inkwell Inspiration Mug. Its design pays homage to the traditional inkwell.</p>
+                        <h5 class="card-title">Print your coffee mugs</h5>
+                        <p class="card-text">We design your images on your favourite coffee mugs.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -137,8 +137,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/fourth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">3D Printer Dreams Mug</h5>
-                        <p class="card-text">Explore the world of possibilities with the 3D Printer Dreams Mug. Featuring futuristic designs and a nod.</p>
+                        <h5 class="card-title">Printed mugs for offices</h5>
+                        <p class="card-text">Print your offices logos and theme on your mugs</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -156,8 +156,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/fifth.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Print Prodigy Ceramic Mug</h5>
-                        <p class="card-text">Elevate your coffee break with the Graphic Guru Mug. Featuring graphic design elements and printing tools.</p>
+                        <h5 class="card-title">Print colorful logos</h5>
+                        <p class="card-text">Colorful logos of your workplaces on your mugs.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -169,126 +169,32 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/fourth.png')}}"
-                        alt="Card image cap">
+                <img class="card-img-top" src="{{asset('website/businesscards/images/sixth.jpeg')}}"
+                      alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Print your mobile logos</h5>
+                        <p class="card-text">We will print your mobile's company logo on your mugs.that will delight your mugs</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
                             </a>
+
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/third.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
+           
+            
 
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/kofi.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+           
         </div>
 
         <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/sixth.jpeg')}}"
-f                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
+           
+            
+           
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/first.jpeg')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/fifth.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                <img class="card-img-top" src="{{asset('website/businesscards/images/sixth.jpeg')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Double Size Business Card</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+          
         </div>
         </div>
     </div>

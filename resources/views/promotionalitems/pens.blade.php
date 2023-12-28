@@ -89,8 +89,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Timeless Printed Pens </h5>
-                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
+                        <h5 class="card-title">Precision Printing Pens</h5>
+                        <p class="card-text">Achieve flawless personalization with our high-quality pens, </p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -105,8 +105,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/pen b.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Playful Printed Pens</h5>
-                        <p class="card-text">Unleash your creativity with our Whimsical Wonders pens. Vibrant colors and whimsical designs. </p>
+                        <h5 class="card-title">Inked Identity Pens</h5>
+                        <p class="card-text">Define your writing with personalized logos or names flawlessly printed on our exceptional pens.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -121,8 +121,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/pen c.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Professional Printed Pens</h5>
-                        <p class="card-text">  Elevate your professional image with our Executive Essentials pens. Sleek and polished,</p>
+                        <h5 class="card-title">Custom Crafted Pens</h5>
+                        <p class="card-text"> Experience the art of customization as we expertly print logos or names on our finely crafted pens.</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -137,8 +137,8 @@
                     <img class="card-img-top" src="{{asset('website/businesscards/images/pen d.png')}}"
                         alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title"> High-Contrast Printed Pens"</h5>
-                        <p class="card-text">Make a bold statement with our High-Contrast pens. Featuring striking designs and vivid colors </p>
+                        <h5 class="card-title">Print Perfection Pens</h5>
+                        <p class="card-text">Elevate your writing instrument with our pens, featuring impeccable logo or name</p>
                         <div class="product-btn">
                             <a href="">
                                 <b style="font-weight: bolder;">Buy Now</b>
@@ -151,88 +151,10 @@
             </div>
        
             <div class="row mb-5 align-items-stretch">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Timeless Printed Pens </h5>
-                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen b.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Playful Printed Pens</h5>
-                        <p class="card-text">Unleash your creativity with our Whimsical Wonders pens. Vibrant colors and whimsical designs. </p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen c.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Professional Printed Pens</h5>
-                        <p class="card-text">  Elevate your professional image with our Executive Essentials pens. Sleek and polished,</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen d.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title"> High-Contrast Printed Pens"</h5>
-                        <p class="card-text">Make a bold statement with our High-Contrast pens. Featuring striking designs and vivid colors </p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div> 
-            </div>
+            
         </div>
 
-        <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="{{asset('website/businesscards/images/pen a.png')}}"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Timeless Printed Pens </h5>
-                        <p class="card-text"> Indulge in the enduring charm of our Classic Elegance collection. Each printed pen exudes timeless</p>
-                        <div class="product-btn">
-                            <a href="">
-                                <b style="font-weight: bolder;">Buy Now</b>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
     </div>
 </body>
 </html>
