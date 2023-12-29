@@ -175,7 +175,7 @@
                       <a href="{{route('rings')}}" class="btn-link">View More</a>
                   </div>
               </div>
-          </div>
+            </div>
   
           <!-- Card 3 -->
           <div class="col-lg-3 col-md-6">

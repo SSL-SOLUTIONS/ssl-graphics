@@ -88,8 +88,7 @@
                 <a class="dropdown-item" href="{{route('letterheads')}}">Letterheads</a>
                 <a class="dropdown-item" href="{{route('flyers')}}">Flyers</a>
                 <a class="dropdown-item" href="{{route('filefolders')}}">File Folder</a>
-                <a class="dropdown-item" href="{{route('brouchers')}}">Brouchers</a>
-                <a class="dropdown-item" href="{{route('invoices')}}">Invoices</a>
+               
                 <a class="dropdown-item" href="{{route('envelopes')}}">Envelopes</a>
                 <a class="dropdown-item" href="{{route('notepads')}}">Notepads</a>
               </div>
@@ -105,7 +104,6 @@
               </div>
             </li>
             <li class="nav-item"><a href="{{route('bottles')}}" class="nav-link">Bottles</a></li>
-            <li class="nav-item"><a href="{{route('stickers')}}" class="nav-link">Stickers</a></li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Invitations</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
